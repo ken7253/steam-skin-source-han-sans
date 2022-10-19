@@ -13,7 +13,7 @@ A skin to change the font of Steam to "source-han-sans".
 
 #### Releaseページからファイルのダウンロード
 
-Releaseページの最新バージョンをダウンロードとファイルの解凍を行います。
+[Releaseページ](https://github.com/ken7253/steam-skin-source-han-sans/releases)の最新バージョンをダウンロードとファイルの解凍を行います。
 
 #### Steamスキンの適用
 
