@@ -16,7 +16,7 @@ A skin to change the font of Steam to "source-han-sans".
 
 ⚠️ ファイル容量が大きいため注意してください
 
-![Assetsより"Variable OTF/TTF/OTC/WOFF2"を選択してダウンロード](https://github.com/adobe-fonts/source-han-sans/releases)
+![Assetsより"Variable OTF/TTF/OTC/WOFF2"を選択してダウンロード](/.assets/source-han-sans-download-link.jpg)
 
 ### スキンの利用方法
 
