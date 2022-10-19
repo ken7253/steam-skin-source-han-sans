@@ -2,6 +2,11 @@
 
 A skin to change the font of Steam to "source-han-sans".
 
+## このリポジトリについて
+
+このリポジトリにはSteamで利用できるスキンデータが格納されています。
+このスキンはSteamのUIに源ノ角ゴシック（Source Han Sans・Noto Sans）を指定し、フォントサイズの調整などを行ったスキンが適用されます。
+
 ## 使い方
 
 ### 事前準備
@@ -25,5 +30,5 @@ A skin to change the font of Steam to "source-han-sans".
 
 ### 不具合・ご要望について
 
-直接連絡がとれる方はDiscordからご連絡ください。
+直接連絡がとれる方はDiscordからご連絡ください。  
 それ以外の方は[issue](https://github.com/ken7253/steam-skin-source-han-sans/issues)からご連絡ください。
