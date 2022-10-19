@@ -13,6 +13,7 @@ jobs:
       - name: packaging
         uses: softprops/action-gh-release@v1
         with:
+          body: "## Usage\n[README.md](https://github.com/ken7253/steam-skin-source-han-sans/blob/main/README.md)"
           files: |
             LICENSE
             README.md
